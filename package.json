@@ -1,0 +1,9 @@
+{
+  "name": "thasmo-renovate-pnpm-lockfile",
+  "version": "0.0.0",
+  "private": true,
+  "packageManager": "pnpm@9.14.4",
+  "devDependencies": {
+    "renovate": "^39.0.0"
+  }
+}

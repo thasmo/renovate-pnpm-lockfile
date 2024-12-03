@@ -1,0 +1,10 @@
+{
+  "extends": ["config:recommended"],
+  "packageRules": [
+    {
+      "description": "Force lots of pending updates for the renovate package",
+      "matchPackageNames": ["renovate"],
+      "minimumReleaseAge": "365 days"
+    }
+  ]
+}
